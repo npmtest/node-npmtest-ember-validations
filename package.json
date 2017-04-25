@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [ember-validations (v0.0.0)](https://github.com/stefanpenner/ember-cli) [![npm package](https://img.shields.io/npm/v/npmtest-ember-validations.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-validations) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-validations.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-validations)",
+    "description": "#### basic test coverage for  [ember-validations (v0.0.0)](https://github.com/stefanpenner/ember-cli)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-validations.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-validations) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-validations.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-validations)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "ember-validations": "*",

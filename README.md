@@ -1,4 +1,7 @@
-# test coverage for  [ember-validations (v0.0.0)](https://github.com/stefanpenner/ember-cli)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-validations.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-validations) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-validations.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-validations)
+# npmtest-ember-validations
+
+#### basic test coverage for  [ember-validations (v0.0.0)](https://github.com/stefanpenner/ember-cli)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-validations.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-validations) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-validations.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-validations)
+
 #### This README outlines the details of collaborating on this Ember addon.
 
 [![NPM](https://nodei.co/npm/ember-validations.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-validations)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-ember-validations/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-ember-validations/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-ember-validations/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-ember-validations/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-ember-validations/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-ember-validations/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-ember-validations/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-ember-validations/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-ember-validations/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-ember-validations/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-ember-validations/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-ember-validations/build/coverage.html/index.html)
 
@@ -89,7 +92,8 @@
         "start": "ember server",
         "test": "ember test"
     },
-    "version": "0.0.0"
+    "version": "0.0.0",
+    "bin": {}
 }
 ```
 
